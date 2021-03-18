@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Singleton
   - LevelText
+  - Canvas
   layers:
   - Default
   - TransparentFX
